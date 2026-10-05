@@ -1,0 +1,15 @@
+# .clang-format configuration
+BasedOnStyle: Google
+IndentWidth: 4
+BreakBeforeBraces: Allman
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: Inline
+AlignAfterOpenBracket: false
+ContinuationIndentWidth: 4
+
+# Naming conventions
+Language: Cpp
+
+# Max line length
+ColumnLimit: 120
